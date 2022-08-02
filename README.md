@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shima-yousefi
-- 👀 I’m interested in Digital Twining, Building Simulations, Building Information Modeling and soft skills like Reveit, IES VE, Autocad,... and complex file formats 
+- 👀 I’m interested in Digital Twining, Building Simulations, Building Information Modeling and soft skills like Reveit, IES VE, Autocad,etc; and complex file formats 
 like IFC
 - 🌱 I’m currently writing my Doctoral thesis with title of A Digital Twin Platform for Optimizing Renewable Energy Usage and Achieve Energy 
 Independence of Sustainable Energy Communities
